@@ -1,4 +1,4 @@
-![logo](https://github.com/sparsh2809/sparsh2809/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/sparsh2809/sparsh2809/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sparsh</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
